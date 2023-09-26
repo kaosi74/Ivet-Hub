@@ -1,0 +1,25 @@
+/* .red {
+    background-color: red;
+    border: 2px solid black;
+    height: 50px;
+}
+.black {
+    background-color: black;
+    border: 2px solid black;
+    height: 50px;
+}
+.purple {
+    background-color: purple;
+    border: 2px solid black;
+    height: 50px;
+}
+.blue {
+    background-color: blue;
+    border: 2px solid black;
+    height: 50px;
+} */
+
+.margin {
+    margin: 10px 10px;
+    justify-content: center;
+}
